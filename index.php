@@ -55,6 +55,16 @@ if ($_SESSION['letras_acertadas'] == $_SESSION['palabra']) {
 <head>
     <meta charset="UTF-8">
     <title>Ahorcado</title>
+    <style>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+h1 {
+    color: #333;
+}
+</style>
+
 </head>
 <body>
     <h1>Juego del Ahorcado</h1>
