@@ -63,6 +63,10 @@ body {
 h1 {
     color: #333;
 }
+p {
+    color: #666;
+    font-family: Arial, sans-serif;
+}
 </style>
 
 </head>
